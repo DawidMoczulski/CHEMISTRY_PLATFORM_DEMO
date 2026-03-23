@@ -38,7 +38,7 @@ Krótki podgląd kluczowych funkcji które umożliwia aplikacja:
 ## 📄 Dokumentacja i Design
 Kod źródłowy aplikacji jest prywatny w celach komercyjnych, jednak zachęcam do pobrania i zapoznania się z pdf-em opisującym bardziej szczegółowo aplikacje.
 
-👉 **[Pobierz pełną prezentację projektu (PDF)](wkrótce...)**
+👉 **[Wkrótce...]**
 
 ---
 
