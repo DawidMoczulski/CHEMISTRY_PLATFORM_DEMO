@@ -26,7 +26,7 @@ Krótki podgląd kluczowych funkcji które umożliwia aplikacja:💻
 
 ## Plany:
 
- - system rejestraci i logowania, dodawanie wielu plansz
+ - system rejestracji i logowania, dodawanie wielu plansz
  - odnośniki do wikipedii oraz wielu przydatnych materiałów
  - możliwość obserwacji molekuł na planszach 3D.
  - wiele innych...
