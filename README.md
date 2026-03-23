@@ -4,7 +4,7 @@ Platforma do nauki i wizualizacji związków chemicznych (wersja demo).💻
 ## Demo Wizualne
 Oto krótki podgląd kluczowych funkcji aplikacji:
 
-![Rozciąganie złożonej molekuły](assets/preview-demo.gif)
+![Rozciąganie złożonej molekuły](assets/CollideForce.gif)
 
 *Poprzez kombinacje wielu sił, struktura wraca do swojej pierwotnej postaci.*
 
