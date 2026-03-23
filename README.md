@@ -1,21 +1,48 @@
 # Chemistry Learning Platform App
 Platforma do nauki i wizualizacji związków chemicznych (wersja demo).💻
 
+Narzędzie ma na celu umożliwić zrozumiałą i przyjemną naukę chemii, poprzez estetyczne UI, interaktywność i optymalne rozmieszczenie wiedzy chemicznej.
+
 ## Demo Wizualne
-Oto krótki podgląd kluczowych funkcji aplikacji:
+Krótki podgląd kluczowych funkcji które umożliwia aplikacja:
 
-![Rozciąganie złożonej molekuły](assets/CollideForce.gif)
+## 1. Analiza zachowania molekuł -> silnik dba o poprawne zachowanie się molekuły w przestrzeni 2D.
 
-*Poprzez kombinacje wielu sił, struktura wraca do swojej pierwotnej postaci.*
+### Amoniak:
+![Rozciąganie złożonej molekuły](assets/Ammonia_AngleForce.gif)
+### Woda:
+![Rozciąganie złożonej molekuły](assets/H2O_AngleForce.gif)
+
+*Poprzez złożenie zestawu sił, struktura wraca do swojej pierwotnej postaci.*
+
+## 2. Odczyt danych -> wielkości atomów i ich wzajemne oddziaływanie są zeskalowane na podstawie oficjalnych parametrów chemicznych.
+![Wzajemne Oddziaływania](assets/CollideForce.gif)
+
+
+## 3. Wrzucanie gotowych substancji, wykrywanie poprawnych
+![Wzajemne Oddziaływania](assets/Demo1.gif)
+
+
+## Plany:
+
+ - system rejestraci i logowania, dodawanie wielu plansz
+ - odnośniki do wikipedii oraz wielu przydatnych materiałów
+ - możliwość obserwacji molekuł na planszach 3D.
+ - wiele innych...
+
+
+
 
 ---
 
 ## 📄 Dokumentacja i Design
 Kod źródłowy aplikacji jest prywatny w celach komercyjnych, jednak zachęcam do pobrania i zapoznania się z pdf-em opisującym bardziej szczegółowo aplikacje.
 
-👉 **[Pobierz pełną prezentację projektu (PDF)](./docs/EcoTrack_Case_Study.pdf)**
+👉 **[Pobierz pełną prezentację projektu (PDF)](wkrótce...)**
 
 ---
 
 ## 🛠️ Wykorzystane Technologie i biblioteki
 React, ASP.NET Core, MongoDB, D3.js, PrimeReact
+
+W razie chęci współpracy dalszego rozwoju nad aplikacją, zapraszam do kontaktu mailowego: dawid2003moc@gmail.com
